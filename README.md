@@ -1,4 +1,4 @@
-# CssColorMaker-Project
+# CssColorMarker-Project
 
 CSS Color Maker Project is a color gradient project.
 
